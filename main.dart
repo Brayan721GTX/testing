@@ -4,6 +4,6 @@ class Class1 {
   }
 
   void method1() {
-    print();
+    print("Method 1");
   }
 }
